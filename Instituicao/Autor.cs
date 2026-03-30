@@ -8,5 +8,6 @@ namespace InstituicaoEnsino
 {
     internal class Autor
     {
+
     }
 }
